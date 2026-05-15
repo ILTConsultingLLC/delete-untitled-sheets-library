@@ -1,0 +1,6 @@
+# Ignore everything by default
+**
+
+# Allow only pushable files
+!src/Code.js
+!src/appsscript.json

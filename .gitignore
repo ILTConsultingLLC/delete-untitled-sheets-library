@@ -1,0 +1,28 @@
+# Node dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+*.env.*
+
+# clasp settings (contains scriptId — keep private)
+.clasp.json
+
+# Mac system files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+
+# Kiro workspace settings
+.kiro/
+
+# Script Properties backup files (if any)
+script-properties*.json
+
+# Internal district handoff document
+README_Template.md
