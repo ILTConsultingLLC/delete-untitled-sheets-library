@@ -1,0 +1,15 @@
+{
+  "name": "delete-untitled-sheets-library",
+  "version": "1.0.0",
+  "description": "A tool to clean up untitled Google Sheets.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvaro Gomez, alvaro.gomez@ILTConsulting.net",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/google-apps-script": "^2.0.8"
+  }
+}
